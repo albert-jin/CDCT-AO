@@ -146,6 +146,6 @@ If you use this work, please cite:
 @article{shi2025cdctao,
   title={CDCT-AO: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning},
   author={Shi, Bohang (Equal. Contributed.) and Jin, Weiqiang (Equal. Contributed.) and Zhao, Biao},
-  journal={Machine Learning (under review)},
+  journal={Neurocomputing (under review)},
   year={2025},
 }
