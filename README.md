@@ -1,4 +1,6 @@
-# CDCT-AO🌝🌝🌝: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning (StarCraft II)
+# CDCT-AO: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning (StarCraft II)
+
+🌝🌝🌝
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/downloads/)
@@ -146,6 +148,6 @@ If you use this work, please cite:
 @article{shi2025cdctao,
   title={CDCT-AO: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning},
   author={Shi, Bohang (Equal. Contributed.) and Jin, Weiqiang (Equal. Contributed.) and Zhao, Biao},
-  journal={Computational Optimization and Applications (under review)},
+  journal={Machine Learning (under review)},
   year={2025},
 }
